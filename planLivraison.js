@@ -9,3 +9,4 @@ $.getJSON( "jsonsUtiles/commandes.json", function( data ) {
     html: items.join( "" )
   }).appendTo( "body" );
 });
+
