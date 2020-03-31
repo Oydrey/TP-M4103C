@@ -26,7 +26,7 @@ Enfin, je me suis occupé de mettre à jour la sélection des commandes suite à
 
 Nous avons commencé notre projet par une phase de compréhension ponctué de maquettes et de questions. Après s'être tous mis d'accord sur le sujet que nous voulions prendre, nous avons commencer à essayer de déterminer ce que nous allions faire visuellement et techniquement.
 
-  J'étais en charge de poser les questions et de noter les informations sur une feuille dont chaque membre du groupe avait une copie afin que nous puissions prendre en compte les éléments fournis afin de réaliser notre projet. Je me suis ensuite concentrée sur la partie graphique de l'application afin de déterminer comment et où nous allions intégrer nos éléments pour la création de planning. 
+  J'étais en charge de poser les questions et de noter les informations sur une feuille dont chaque membre du groupe avait une copie afin que nous puissions prendre en compte les éléments fournis afin de réaliser notre projet. Je me suis ensuite concentrée sur la partie graphique de l'application afin de déterminer comment et où nous allions intégrer nos éléments pour la création de planning.
 
   N'ayant pas d'ordinateur portable, je me suis mise en binôme avec Maël afin de pouvoir aider à la réalisation technique du projet. Je faisais les recherches pour la prochaine heure de TP chez moi et j'utilisais les informations obtenues lors des cours avec Maël afin d'avancer dans le projet.
 
@@ -34,7 +34,9 @@ Nous avons commencé notre projet par une phase de compréhension ponctué de ma
 
 ## Activités de Julian
 
+De mon cotès j'ai commencé par essayer de récupérer les différents éléments utiles (calendrier / liste dans la barre verticale) de fullcalendar et de les implenter au sein de notre projet de manière à réaliser une première version de ce projet, une fois l'affichage mis en place, j'ai pu commencer à rajouter des données (livreur (nom/prenom) et commande (adresse de livraison/nom du produit/etc..)) avec des bases de données de test au format Json directement mis dans notre projet.
 
+Cela nous a permis d'avoir une première version du projet pas vraiment fonctionnel ( à cause d'une mauvaise version de fullcalendar) mais cela nous à donner une idée de la forme et des fonctionnalités que devrait avoir le projet. Le calendrier étant de base en anglais je me suis ensuite penché sur comment traduire en français le calendrier pour qu'il soit en rapport avec le reste, ce qui m'a fait perdre pas mal de temps alors que la commande était toutes simple.
 
 ## Activités de Valentin
 
@@ -42,4 +44,6 @@ Nous avons commencé notre projet par une phase de compréhension ponctué de ma
 
 ## Document issus de la phase de conception pré-développement
 
-
+![image1]()
+![image2]()
+![image3]()
