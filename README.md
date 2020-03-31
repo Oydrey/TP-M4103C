@@ -46,4 +46,9 @@ Cela nous a permis d'avoir une première version du projet pas vraiment fonction
 
 ![image1](https://github.com/Oydrey/TP-M4103C/blob/master/image/IMG_20200207_150032.jpg)
 ![image2](https://github.com/Oydrey/TP-M4103C/blob/master/image/IMG_20200207_150051.jpg)
+
+À travers ces deux maquettes, nous avons décidé que la gestion des plannings se fera en glissant les livreurs situés en haut et les commandes situés à gauche sur une date commune.
+
 ![image3](https://github.com/Oydrey/TP-M4103C/blob/master/image/JPEG_20200331_162401.jpg)
+
+ Ici, nous avons noté les données que devait contenir chaque liaison créé en format json.
