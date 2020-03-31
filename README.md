@@ -10,7 +10,7 @@ Goran SARRIBOUETTE - Maël FIAUDRIN - Loreena FAUCHER - Julian DESMARTIN - Valen
 
 Tout d'abord, Loreena n'ayant pas d'ordinateur portable à disposition, nous avons réalisé une partie de notre travail en commun.
 
-Ainsi, avec Loreena nous avons commencé par réfléchir à comment nous allons mettre en place la partie de gestion des plannings afin que toute l'équipe parte sur une idée commune et puisse se répartir le travail à accomplir plus facilement. De ce fait, nous sommes allé au tableau pour s'accorder sur une maquette et un système de gestion des plannings. (Les documents issus de cette analyse sont disponible dans la dernière partie).
+Ainsi, avec Loreena nous avons commencé par réfléchir à comment nous allons mettre en place la partie de gestion des plannings afin que toute l'équipe parte sur une idée commune et puisse se répartir le travail à accomplir plus facilement. De ce fait, nous sommes allés au tableau pour s'accorder sur une maquette et un système de gestion des plannings. (Les documents issus de cette analyse sont disponible dans la dernière partie).
 
 Une fois que nous avons validé la partie conception avec le reste du groupe, nous avons implémenté la base du projet en récupérant une version de full calendar se rapprochant de notre conception de la gestion des plannings et l'avons adapté à notre projet.
 
