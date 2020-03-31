@@ -24,7 +24,13 @@ Enfin, je me suis occupé de mettre à jour la sélection des commandes suite à
 
 ## Activités de Loreena
 
+Nous avons commencé notre projet par une phase de compréhension ponctué de maquettes et de questions. Après s'être tous mis d'accord sur le sujet que nous voulions prendre, nous avons commencer à essayer de déterminer ce que nous allions faire visuellement et techniquement.
 
+  J'étais en charge de poser les questions et de noter les informations sur une feuille dont chaque membre du groupe avait une copie afin que nous puissions prendre en compte les éléments fournis afin de réaliser notre projet. Je me suis ensuite concentrée sur la partie graphique de l'application afin de déterminer comment et où nous allions intégrer nos éléments pour la création de planning. 
+
+  N'ayant pas d'ordinateur portable, je me suis mise en binôme avec Maël afin de pouvoir aider à la réalisation technique du projet. Je faisais les recherches pour la prochaine heure de TP chez moi et j'utilisais les informations obtenues lors des cours avec Maël afin d'avancer dans le projet.
+
+  Pour la partie technique, nous avons réalisé trop tard que la version de fullcalendar que nous avions implémentée n'était pas celle permettant de réaliser le travail le plus efficacement et facilement possible. Néanmoin, nous avons fait avec par manque de temps et de conaissances sur le sujet.
 
 ## Activités de Julian
 
