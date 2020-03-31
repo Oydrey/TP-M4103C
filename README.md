@@ -20,7 +20,9 @@ Enfin, je me suis occupé de mettre à jour la sélection des commandes suite à
 
 ## Activités de Goran
 
-
+  J'ai tout d'abord aidé à la phase de conception du projet. En aidant sur la disposition des différents éléments ainsi que les différentes fonctionnalités. J'ai également créer le GitHub afin d'aider à la mise en place du projet.
+  
+  J'ai ensuite aidé à mettre en place le calendrier full calendar ainsi qu'a construire certaines petites fonctionnalités. Je n'ai pas réalisé de fonctionnalité à part entière, j'ai surtout aidé mes équipiers à réaliser leurs fonctionnaliés. 
 
 ## Activités de Loreena
 
@@ -30,13 +32,13 @@ Nous avons commencé notre projet par une phase de compréhension ponctué de ma
 
   N'ayant pas d'ordinateur portable, je me suis mise en binôme avec Maël afin de pouvoir aider à la réalisation technique du projet. Je faisais les recherches pour la prochaine heure de TP chez moi et j'utilisais les informations obtenues lors des cours avec Maël afin d'avancer dans le projet.
 
-  Pour la partie technique, nous avons réalisé trop tard que la version de fullcalendar que nous avions implémentée n'était pas celle permettant de réaliser le travail le plus efficacement et facilement possible. Néanmoin, nous avons fait avec par manque de temps et de conaissances sur le sujet.
+  Pour la partie technique, nous avons réalisé trop tard que la version de fullcalendar que nous avions implémentée n'était pas celle permettant de réaliser le travail le plus efficacement et facilement possible. Néanmoins, nous avons fait avec par manque de temps et de conaissances sur le sujet.
 
 ## Activités de Julian
 
-De mon cotès j'ai commencé par essayer de récupérer les différents éléments utiles (calendrier / liste dans la barre verticale) de fullcalendar et de les implenter au sein de notre projet de manière à réaliser une première version de ce projet, une fois l'affichage mis en place, j'ai pu commencer à rajouter des données (livreur (nom/prenom) et commande (adresse de livraison/nom du produit/etc..)) avec des bases de données de test au format Json directement mis dans notre projet.
+  De mon côté j'ai commencé par récupérer les différents éléments utiles (calendrier / liste dans la barre verticale) de fullcalendar et de les implenter au sein de notre projet de manière à réaliser une première version de ce projet, une fois l'affichage mis en place, j'ai pu commencer à rajouter des données (livreur (nom/prenom) et commande (adresse de livraison/nom du produit/etc..)) avec des bases de données de test au format Json directement mis dans notre projet.
 
-Cela nous a permis d'avoir une première version du projet pas vraiment fonctionnel ( à cause d'une mauvaise version de fullcalendar) mais cela nous à donner une idée de la forme et des fonctionnalités que devrait avoir le projet. Le calendrier étant de base en anglais je me suis ensuite penché sur comment traduire en français le calendrier pour qu'il soit en rapport avec le reste, ce qui m'a fait perdre pas mal de temps alors que la commande était toutes simple.
+  Cela nous a permis d'avoir une première version du projet pas vraiment fonctionnel ( à cause d'une mauvaise version de fullcalendar) mais cela nous à donner une idée de la forme et des fonctionnalités que devrait avoir le projet. Le calendrier étant de base en anglais je me suis ensuite penché sur comment traduire en français le calendrier pour qu'il soit en rapport avec le reste, ce qui m'a fait perdre pas mal de temps alors que la commande était toute simple.
 
 ## Activités de Valentin
 
