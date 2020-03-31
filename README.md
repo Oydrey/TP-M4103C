@@ -1,6 +1,6 @@
 # TP M4103C - Partie gestion des plannings
 
-Notre objectif a été de proposer une gestion des plannings pour que les livreurs sachent quelles commande ils ont à livrer.
+Notre objectif a été de proposer une gestion des plannings pour que les livreurs sachent quelles commandes ils ont à livrer.
 
 ## Membres du groupe
 
