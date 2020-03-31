@@ -42,7 +42,12 @@ Nous avons commencé notre projet par une phase de compréhension ponctué de ma
 
 ## Activités de Valentin
 
-
+Le démarrage du projet aura été particulièrement difficile pour nous selon moi, dans l'ensemble il aura fallu commencer par découvrir fullcalendar et son fonctionnement. Cette première étape aura donc largement couvert nos premières séances. Après une prise en main de l'outil nous avons donc commencer à imaginer comment nous concevrions l'ensemble de la page.  Au cours de la réalisation de notre page, je suis donc intervenu principalement sur la mise en commun des différents travaux de mes camarade le tout en résolvant quelques-uns des nombreux problèmes auxquels nous avons dû faire face.  La première harmonisation donc aura été pour nous de rendre possible de drag and drop des commandes et livreurs dans l'emplois du temps, Maël et moi avions donc aboutis à deux versions de code que nous avons mises en communs, à partir de là donc j'ai refait visuellement la page pour la rendre cohérente avec notre ce que nous souhaitions réaliser. Nous avons également passé quelques heures à essayer de résoudre divers bugs liés à cela : par exemple la duplication des évènements dans l'emploi du temps lorsque nous déplacions les objets. Une autre fonctionnalité que nous souhaitions mettre en place également était de supprimer un objet de l'emplois du temps lorsque nous cliquions dessus, cette étape nous aura également ralenti mais avec l'aide du professeur, Maël a réussi à faire fonctionner l'ensemble.
+Pendant ce temps, Julian travaillait sur l'interprétation des Jsons par notre code, et c'est d'ailleurs cette fonctionnalité que nous avons par la suite tâché "d'ajouter" au code final.
+Cependant, dans les dernières séances, nous avons appris plusieurs choses : la première que dorénavant les Jsons étaient à récupérer via requêtes http. J'ai donc refait cette partie du code pour récupérer les Jsons depuis les liens fournis par le professeur.
+Enfin, la dernière tâche que nous avons eu le temps de réaliser a été une "refonte" de la manière dont nous faisions fonctionner l'emploi du temps pour associer facilement une commande à un livreur. Par le passé, nous devions donc amener les deux objets différents dans la même case de l'emploi du temps, mais cela nous causait trop de problèmes.
+J'ai donc refait intégralement cette partie en proposant à la place deux "select", un affichant les commandes et un les livreurs. Puis, en appuyant sur un bouton sous-jacent les deux sélections se font associer en un objet draggable que l’on peut par la suite mettre dans notre calendrier. 
+Ainsi, l'association commande-livreur peut fonctionner comme il faut et facilement.
 
 ## Document issus de la phase de conception pré-développement
 
